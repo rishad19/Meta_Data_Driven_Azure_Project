@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Pipeline-02",
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c44e5b35-a6fb-4021-8eb8-314c7ea0b113",
+		"tenantId": "1f75bed1-aa0e-4d1a-8799-7ca37a597768"
+	}
+}
